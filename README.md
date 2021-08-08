@@ -1,2 +1,2 @@
 # doctoral-codes
-Codes developed during the doctorate
+Codes developed during the doctorate period
